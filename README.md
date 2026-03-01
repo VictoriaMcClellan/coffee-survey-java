@@ -1,5 +1,5 @@
 # coffee-survey-java
-Java program implementing a Likert scale survey with an exception handling
+Java program using a Likert scale survey with exception handling
 coffee-survey-java/
 │
 ├── CoffeeSurvey.java
